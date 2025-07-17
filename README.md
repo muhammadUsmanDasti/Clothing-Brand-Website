@@ -1,5 +1,7 @@
 # Clothing-Brand-Website
 Next Style is a responsive e-commerce Website built using only HTML and CSS. This project showcases a modern and clean fashion store layout that includes product listings, featured banners, and responsive navigation ideal for showcasing clothing brands or online fashion stores.
+## 🌐 Live Website
+[Click here to view the live site](https://muhammadusmandasti.github.io/Clothing-Brand-Website/)
 ##  Technologies Used
 - HTML5
 - CSS3
@@ -25,4 +27,3 @@ Muhammad Usman Dasti
 -Gmail:  muhammadusmandasti07@gmail.com
 
 -[LinkedIn](https://www.linkedin.com/in/muhammad-usman-dasti-72058b322/)
-## [View My Website]( https://muhammadusmandasti.github.io/Clothing-Brand-Website/)
